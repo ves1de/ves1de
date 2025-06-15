@@ -25,14 +25,14 @@
 
 
 <details align="left">
-  <summary><h2><b>📚 My stack</b></h2></summary>
+  <summary><h2><b>📚Мой стек технологий</b></h2></summary>
   <p>
-    <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=cs,cpp,py,java,html,css,go,postgres,sqlite&perline=9"/>
-    <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=dotnet,linux,django,unity,docker,git&perline=7" />
-    <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,git,neovim,postman,ultimate&perline=7" />
+    <h3>Языки</h3>
+    <img src="https://skillicons.dev/icons?i=py,cs,cpp,go,php,javascript&perline=7"/>
+    <h3>Фреймворки</h3>
+    <img src="https://skillicons.dev/icons?i=dotnet,django,unity&perline=7"/>
+    <h3>ПО/Инструменты</h3>
+    <img src="https://skillicons.dev/icons?i=visualstudio,git,docker&perline=7" />
     <br>
   </p>
 </details>
