@@ -6,7 +6,7 @@
 
 Вот некоторые из моих проектов:
 <ul>
- <li>Dubna-University (in progress)</li>
+ <li><a href="https://github.com/ves1de/Dubna-University">Dubna-University (in progress)</a></li>
    <ul>
     <li>Практические задачи, реализованные в рамках обучения в ФГБОУ ВО «Университет «Дубна» (2023-2027).</li> 
     Направление 09.03.01 "Информатика и вычислительная техника".
