@@ -41,6 +41,8 @@
   </p>
 </details>
 
+#  
+
 <details align="left">
   <summary><h2><b>⭐GitHub статистика</b></h2></summary>
   <p>
@@ -50,6 +52,7 @@
   </p>
 </details>
 
+#  
 
 ## 📫 Как связаться со мной?
 
