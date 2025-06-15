@@ -24,14 +24,18 @@
 ---
 
 
-## 🛠️ Технологии и инструменты
-
-Я работаю с различными технологиями и инструментами, включая:
-
-- Языки программирования: JavaScript, С#, Python и др.
-- Веб-технологии: HTML, CSS, React, и др.
-- Базы данных: MySQL, PostgreSQL
-- Инструменты: Git, Visual Studio Code и др.
+<details align="left">
+  <summary><h2><b>📚 My stack</b></h2></summary>
+  <p>
+    <h3>Langs</h3>
+    <img src="https://skillicons.dev/icons?i=с,cs,cpp,py,java,html,css,go,postgres,sqlite&perline=7" />
+    <h3>Frameworks / Tools</h3>
+    <img src="https://skillicons.dev/icons?i=dotnet,linux,django,unity,docker,git&perline=7" />
+    <h3>Software</h3>
+    <img src="https://skillicons.dev/icons?i=visualstudio,git,neovim,postman,ultimate&perline=7" />
+    <br>
+  </p>
+</details>
 
 <details align="left">
   <summary><h2><b>⭐GitHub статистика</b></h2></summary>
