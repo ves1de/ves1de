@@ -34,7 +34,7 @@
 - Инструменты: Git, Visual Studio Code и др.
 
 <details align="left">
-  <summary><h2><b>⭐GitHub stats</b></h2></summary>
+  <summary><h2><b>⭐GitHub статистика</b></h2></summary>
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ves1de&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
