@@ -33,6 +33,16 @@
 - Базы данных: MySQL, PostgreSQL
 - Инструменты: Git, Visual Studio Code и др.
 
+<details align="left">
+  <summary><h2><b>⭐GitHub stats</b></h2></summary>
+  <p>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ves1de&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api?username=ves1de&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+  </p>
+</details>
+
+
 ## 📫 Как связаться со мной?
 
 Если хотите связаться, можете написать мне на [Telegram](https://t.me/ves1de).
